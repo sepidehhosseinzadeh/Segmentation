@@ -1,0 +1,17 @@
+LICENSE
+==============================
+
+Permission is granted for anyone to copy, use, modify, or distribute this
+program and accompanying programs and documents for any purpose, provided
+this copyright notice is retained and prominently displayed, along with
+a note saying that the original programs are available from our web page.
+If you make extensive use of this code, as is or otherwise, please include
+a citation to the following:
+
+Ryan Kiros, Karteek Popuri, Matthew Low, Dana Cobzas and Martin Jagersand
+"Automatic Lung Vessel Segmentation via Stacked Multiscale Feature Learning"
+Technical report, 2013.
+
+http://vessel12.grand-challenge.org/results/displayFile?resultId=
+20130227025246_429_UofA_Vision_feat_learning_vessel_results&type=Public&file=vessel12.pdf
+
