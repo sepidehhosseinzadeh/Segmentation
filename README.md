@@ -1,8 +1,6 @@
 
 # Note
 
-This is the repo for CMPUT551 course project
-
 Originally written by Ryan Kiros (rkiros@cs.toronto.edu) and achieved the 1st place VESSEL12 grand challenge result. The original programs are available from [here](http://www.cs.toronto.edu/~rkiros/)
 
 The programs and documents are distributed without any warranty, express or
