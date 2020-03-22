@@ -3,11 +3,6 @@
 
 Originally written by Ryan Kiros (rkiros@cs.toronto.edu) and achieved the 1st place VESSEL12 grand challenge result. The original programs are available from [here](http://www.cs.toronto.edu/~rkiros/)
 
-The programs and documents are distributed without any warranty, express or
-implied.  As the programs were written for research purposes only, they have
-not been tested to the degree that would be advisable in any important
-application.  All use of these programs is entirely at the user's own risk.
-
 # How to use
 
 To train a classifier on the MSlesions competition data:
