@@ -2,7 +2,8 @@
 Paper: http://webdocs.cs.ualberta.ca/~zichen2/papers/lesion_report.pdf
 
 Unsupervised feature learning was proved to be a potentially powerful tool for image segmentation as pixel-wise classification. However, there is no comprehensive study on the importance of each module of image segmentation pipeline. In this project we aim to understand the formulated variability of performance of feature learning methods in the context of image segmentation. A generic test framework was developed, then two segmentation tasks from two different domain were studied and analyzed. Through extensive experiments on buildings segmentation and multiple sclerosis lesions segmentation, different parameters are compared. Discussions about the preprocessing settings, the impact of dictionary learning, encoding and classification is presented. Our results conform in some parts with the analysis previously reported on image classification, but also new conclusions are drawn specific to the segmentation task.
-
+![](pipeline.png)
+![](results.png)
 ## Note
 
 Originally written by Ryan Kiros (rkiros@cs.toronto.edu) and achieved the 1st place VESSEL12 grand challenge result. The original programs are available from [here](http://www.cs.toronto.edu/~rkiros/)
